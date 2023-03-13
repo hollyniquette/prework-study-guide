@@ -5,8 +5,9 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-To begin learning how to code 
+  To learn about the elements needed to begin coding
 - Why did you build this project? 
+  To learn how to use those elements and what they do
 - What problem does it solve?
 - What did you learn?
 
