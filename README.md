@@ -5,13 +5,18 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-  To learn about the elements needed to begin coding
-- Why did you build this project? 
-  To learn how to use those elements and what they do
-- What problem does it solve?
+  To begin understanding how the web development workflow works
+  To learn the basics of code languages how they work
+- Why did you build this project?
+  To see how a webpage behaves when making changes to the code
+  To understand the differences and purposes of code languages and how they interact
 - What did you learn?
-
-
+  How the CLI works and how to use it with VSCode and GitHub
+  How version control works through git and branches
+  How to merge branches to GitHub with pushing and pulling
+  How the elements of HTML structure a webpage and interacts with CSS
+  How CSS visually affects a webpage
+  How JavaScript uses variables to describe and store information
 
 ## Installation
 
@@ -34,5 +39,3 @@ N/A
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
-
-
